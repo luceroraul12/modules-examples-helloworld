@@ -1,5 +1,5 @@
 module first{
-    exports first.java.principal.HelloStart;
-    exports first.java.principal.HelloWorld;
+    exports principal.HelloStart
+    exports principal.HelloWorld;
 
 }
